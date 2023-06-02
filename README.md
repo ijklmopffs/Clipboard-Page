@@ -28,7 +28,7 @@ Users should be able to:
 ### Links
 
 - [Solution URL](https://github.com/ijklmopffs/Clipboard-Page)
-- [Live Site URL](https://your-live-site-url.com)
+- [Live Site URL](https://clipboard-pagetoo.netlify.app/)
 
 ## My process
 
